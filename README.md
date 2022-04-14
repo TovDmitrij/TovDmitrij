@@ -13,30 +13,22 @@
   </div>
   <div>
     <h2 align="center">
-      <img width=50px src="https://hellosubscription.com/wp-content/uploads/2019/02/01105045/hello-talker.gif?quality=100">
+      <img width=50px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/title_languages.gif">
       Languages
     </h2>
-    <table>
-      <tr>
-        1
-      </tr>
-      <tr>
-        2
-      </tr>
-      <tr>
-        3
-      </tr>
-      <tr>
-        4
-      </tr>        
-      <tr>
-        5
-      </tr>
-    </table>
+    <div align="center">
+      <code><img width=50px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_C%23.png"></code>
+      <code><img width=50px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_SQL.jpg"></code>
+      <code><img width=50px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_Python.png"></code>
+      <code><img width=50px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_PHP.png"></code>
+      <code><img width=50px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_JS.png"></code>
+      <code><img width=50px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_HTML.png"></code>
+      <code><img width=50px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_CSS.png"></code>
+    </div>
   </div>
   
   <h2 align="center">
-    <img width="35px" src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif">
+    <img width="35px" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/title_git-stats.gif">
     GitHub stats
   </h2>
 
