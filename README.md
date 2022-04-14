@@ -33,7 +33,7 @@
 
 <div align="center">
 
-| DataBase          | IDE                 | Interface | OS            | Another
+| Database          | IDE                 | Interface | OS            | Another
 | :-----------------: | :-------------------: | :--------: | :-------------: | :-----:
 | MSSQL             | Visual Studio       | WPF       | Windows 10    | LINQ
 | MySQL (phpMyAdmin)| Visual Studio Code  | WinForms  | Linux Ubuntu  | JSON
@@ -56,10 +56,10 @@
       </tr>
       <tr align="center">
         <td>
-          <img width=500px height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovdmitrij&theme=midnight-purple&hide_border=true&layout=compact&langs_count=15&hide_title=true"/>
+          <img width=500px height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovdmitrij&theme=midnight-purple&hide_border=true&layout=compact&langs_count=15&count-private=true&hide_title=true"/>
         </td>
         <td>
-          <img width=500px height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+          <img width=500px height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&count-private=true&theme=midnight-purple&hide_border=true"/>
         </td>
       </tr>
     </table>
