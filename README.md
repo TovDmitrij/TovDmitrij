@@ -34,42 +34,42 @@
       <h3 align="center">DataBase</h3>
       <table align="center">
         <tr>
-          <td>MSSQL</td>  
-          <td>MySQL (phpMyAdmin)</td>  
+          <td><code>MSSQL</code></td>  
+          <td><code>MySQL (phpMyAdmin)</code></td>  
         </tr>
       </table>
       <h3 align="center">IDE</h3>
       <table align="center">
         <tr>
-          <td>Visual Studio</td>  
-          <td>Visual Studio Code</td>  
-          <td>Mono Develop</td>  
-          <td>Oracle Apex</td>  
+          <td><code>Visual Studio</code></td>  
+          <td><code>Visual Studio Code</code></td>  
+          <td><code>Mono Develop</code></td>  
+          <td><code>Oracle Apex</code></td>  
         </tr>
       </table>
       <h3 align="center">Interface</h3>
       <table align="center">
         <tr>
-          <td>WPF</td>  
-          <td>WinForms</td>
+          <td><code>WPF</code></td>  
+          <td><code>WinForms</code></td>
         </tr>
       </table>
       <h3 align="center">OS</h3>
       <table align="center">
         <tr>
-          <td>Windows 10</td>  
-          <td>Linux Ubuntu</td>
+          <td><code>Windows 10</code></td>  
+          <td><code>Linux Ubuntu</code></td>
         </tr>
       </table>
       <h3 align="center">Another</h3>
       <table align="center">
         <tr>
-          <td>LINQ</td>  
-          <td>JSON</td>  
-          <td>Bootstrap</td>  
-          <td>Beautiful Soup</td>  
-          <td>Selenium </td>  
-          <td>XAMPP</td>  
+          <td><code>LINQ</code></td>  
+          <td><code>JSON</code></td>  
+          <td><code>Bootstrap</code></td>  
+          <td><code>Beautiful Soup</code></td>  
+          <td><code>Selenium</code></td>  
+          <td><code>XAMPP</code></td>  
         </tr>
       </table>
    </div>
