@@ -32,18 +32,90 @@
         Tools
       </h2>
     <div align="center">
-      I will do this later...
       <table>
         <tr align="center">
           <td>
              DataBase
           </td>
+          <td>
+            IDE
+          </td>
+          <td>
+            Interface
+          </td>
+          <td>
+            OS
+          </td>
+          <td>
+            Another
+          </td>
         </tr>
         <tr align="center">
           <td>
             <code>MSSQL</code>
+          </td>
+          <td>
+            <code>Visual Studio</code>
+          </td>
+          <td>
+            <code>WPF</code>
+          </td>
+          <td>
+            <code>Windows 10</code>
+          </td>
+          <td>
+            <code>LINQ</code>
+          </td>
+        </tr>
+        <tr align="center">
+          <td>
             <code>MySQL</code>
+          </td>
+          <td>
+            <code>Visual Studio Code</code>
+          </td>
+          <td>
+            <code>WinForms</code>
+          </td>
+          <td>
+            <code>Linux Ubuntu</code>
+          </td>
+          <td>
+            <code>JSON</code>
+          </td>
+        </tr>
+        <tr align="center">
+          <td>
+-
+          </td>
+          <td>
             <code>Oracle Apex</code>
+          </td>
+          <td>
+-
+          </td>
+          <td>
+-
+          </td>
+          <td>
+            <code>Beautiful Soup</code>
+          </td>
+        </tr>
+        <tr align="center">
+          <td>
+-
+          </td>
+          <td>
+            <code>Mono Develop</code>
+          </td>
+          <td>
+-
+          </td>
+          <td>
+-
+          </td>
+          <td>
+            <code>Selenium</code>
           </td>
         </tr>
       </table>
