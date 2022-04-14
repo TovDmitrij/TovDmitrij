@@ -26,53 +26,23 @@
       <code><img width=50px title="CSS3" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_CSS.png"/></code>
     </div>
    </div>
-   <div>
-      <h2 align="center">
-        <img width=30px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/tools_main.gif"/>
-        Tools
-      </h2>
-      <h3 align="center">DataBase</h3>
-      <table align="center">
-        <tr>
-          <td><code>MSSQL</code></td>  
-          <td><code>MySQL (phpMyAdmin)</code></td>  
-        </tr>
-      </table>
-      <h3 align="center">IDE</h3>
-      <table align="center">
-        <tr>
-          <td><code>Visual Studio</code></td>  
-          <td><code>Visual Studio Code</code></td>  
-          <td><code>Mono Develop</code></td>  
-          <td><code>Oracle Apex</code></td>  
-        </tr>
-      </table>
-      <h3 align="center">Interface</h3>
-      <table align="center">
-        <tr>
-          <td><code>WPF</code></td>  
-          <td><code>WinForms</code></td>
-        </tr>
-      </table>
-      <h3 align="center">OS</h3>
-      <table align="center">
-        <tr>
-          <td><code>Windows 10</code></td>  
-          <td><code>Linux Ubuntu</code></td>
-        </tr>
-      </table>
-      <h3 align="center">Another</h3>
-      <table align="center">
-        <tr>
-          <td><code>LINQ</code></td>  
-          <td><code>JSON</code></td>  
-          <td><code>Bootstrap</code></td>  
-          <td><code>Beautiful Soup</code></td>  
-          <td><code>Selenium</code></td>  
-          <td><code>XAMPP</code></td>  
-        </tr>
-      </table>
-   </div>
+    <h2 align="center">
+      <img width=30px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/tools_main.gif"/>
+      Tools
+    </h2>
+
+<div align="center">
+
+| DataBase          | IDE                 | Interface | OS            | Another
+| :-----------------: | :-------------------: | :--------: | :-------------: | :-----:
+| MSSQL             | Visual Studio       | WPF       | Windows 10    | LINQ
+| MySQL (phpMyAdmin)| Visual Studio Code  | WinForms  | Linux Ubuntu  | JSON
+|                   | Mono Develop        |           |               | Bootstrap
+|                   | Oracle Apex         |           |               | Beautiful Soup
+|||||Selenium
+|||||XAMPP
+     
+  </div>
   <div>
     <h2 align="center">
       <img width="35px" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/title_git-stats.gif">
