@@ -56,8 +56,13 @@
       </tr>
       <tr align="center">
         <td>
+<p>
           <img width=500px height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovdmitrij&theme=midnight-purple&hide_border=true&layout=compact&langs_count=15&count-private=true&hide_title=true"/>
-        </td>
+ </p> 
+<p>
+* not include a private repos
+</p>   
+   </td>
         <td>
           <img width=500px height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&count-private=true&theme=midnight-purple&hide_border=true"/>
         </td>
