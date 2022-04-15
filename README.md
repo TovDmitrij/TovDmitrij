@@ -9,7 +9,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=16EB00&center=true&vCenter=true&width=25&height=25&lines=%3E"/>
        Primarily BackEnd developer
     </h3>
-    <p align="center">...and a little FrontEnd</p>
+    <p align="center">...and secondly FrontEnd</p>
   </div>
   <div>
     <h2 align="center">
@@ -56,13 +56,13 @@
       </tr>
       <tr align="center">
         <td>
-<p>
-          <img width=500px height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovdmitrij&theme=midnight-purple&hide_border=true&layout=compact&langs_count=15&count-private=true&hide_title=true"/>
- </p> 
-<p>
-* not include a private repos
-</p>   
-   </td>
+          <p> 
+            <img width=500px height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovdmitrij&theme=midnight-purple&hide_border=true&layout=compact&langs_count=15&count-private=true&hide_title=true"/>
+          </p> 
+          <p>
+          * private repositories not included
+          </p>   
+       </td>
         <td>
           <img width=500px height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&count-private=true&theme=midnight-purple&hide_border=true"/>
         </td>
