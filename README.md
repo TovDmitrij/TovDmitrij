@@ -7,7 +7,7 @@
   <div>
     <h3 align="center">
       <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=16EB00&center=true&vCenter=true&width=25&height=25&lines=%3E"/>
-       Primarily BackEnd developer
+       Primarily BackEnd & Desktop developer
     </h3>
     <p align="center">...and secondly FrontEnd</p>
   </div>
