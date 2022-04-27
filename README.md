@@ -37,8 +37,9 @@
 | :-----------------: | :-------------------: | :--------: | :-------------: | :-----:
 | MSSQL             | Visual Studio       | WPF       | Windows 10    | LINQ
 | MySQL (phpMyAdmin)| Visual Studio Code  | WinForms  | Linux Ubuntu  | JSON
-|                   | Mono Develop        |           |               | Bootstrap
-|                   | Oracle Apex         |           |               | Beautiful Soup
+|                   | Mono Develop        |           |               | Material Design (WPF)
+|                   | Oracle Apex         |           |               | Bootstrap
+|||||Beautiful Soup
 |||||Selenium
 |||||XAMPP
      
