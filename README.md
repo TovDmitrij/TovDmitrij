@@ -1,67 +1,65 @@
 <!--  Приветствие  -->
   
-  <div>
-    <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=16EB00&center=true&vCenter=true&width=25&height=25&lines=%3E"/>
-      <img src="https://readme-typing-svg.herokuapp.com?size=25&width=300&color=000000&background=FFFFFF&center=true&vCenter=true&height=25&lines=Hi+there%2C+I'm+Dmitry"/>
-    </h1>
-  </div>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=16EB00&center=true&vCenter=true&width=25&height=25&lines=%3E"/>
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&width=300&color=000000&background=FFFFFF&center=true&vCenter=true&height=25&lines=Hi+there%2C+I'm+Dmitry"/>
+  </h1>
+</div>
   
 <!-- Направление разработчика  -->
   
-  <div>
-    <h3 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=16EB00&center=true&vCenter=true&width=25&height=25&lines=%3E"/>
-       Primarily BackEnd & Desktop developer
-    </h3>
-    <p align="center">...and secondly FrontEnd</p>
-  </div>
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=16EB00&center=true&vCenter=true&width=25&height=25&lines=%3E"/>
+    Primarily BackEnd & Desktop developer
+  </h3>
+  <p>...and secondly FrontEnd</p>
+</div>
   
 <!-- Языки  -->
-  
-  <div>
-    <h2 align="center">
-      <img width=50px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/title_languages.gif"/>
-      Languages
-    </h2>
-  </div>
-  <div align="center">
-    <code><img width=50px title="C#" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_C%23.png"/></code>
-    <code><img width=50px title="SQL" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_SQL.jpg"/></code>
-    <code><img width=50px title="Python" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_Python.png"/></code>
-    <code><img width=50px title="PHP" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_PHP.png"/></code>
-    <code><img width=50px title="JavaScript" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_JS.png"/></code>
-    <code><img width=50px title="HTML5" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_HTML.png"/></code>
-    <code><img width=50px title="CSS3" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_CSS.png"/></code>
-  </div>
+
+<h2 align="center">
+  <p><img width=55px src="https://user-images.githubusercontent.com/86602542/169523990-981beff5-097f-4ba2-af24-fc64a74bfa5e.gif"/>Languages</p>
+</h2>
+<div align="center">
+  <code><img width=50px title="C#" src="https://user-images.githubusercontent.com/86602542/169523940-1eaa39d9-0dc6-4aa0-9d0b-ac440473a052.png"/></code>
+  <code><img width=50px title="SQL" src="https://user-images.githubusercontent.com/86602542/169524262-d36b3922-d7ab-4a5d-a226-e6dd784bda2d.jpg"/></code>
+  <code><img width=50px title="Python" src="https://user-images.githubusercontent.com/86602542/169524407-920644ab-78ee-499d-af82-0a4f38af26b0.png"/></code>
+  <code><img width=50px title="PHP" src="https://user-images.githubusercontent.com/86602542/169524427-bb9c5480-8ceb-4974-a7cf-10c2e0857ff3.png"/></code>
+  <code><img width=50px title="JavaScript" src="https://user-images.githubusercontent.com/86602542/169524442-3583e838-23a8-4198-8ef8-ec8ea869653b.png"/></code>
+  <code><img width=50px title="HTML5" src="https://user-images.githubusercontent.com/86602542/169524450-2665e586-d0c5-4b8d-9dbc-0ba50c610147.png"/></code>
+  <code><img width=50px title="CSS3" src="https://user-images.githubusercontent.com/86602542/169524456-cefa3531-db44-43c0-bc1c-9294c87cc5a3.png"/></code>
+</div>
   
 <!--  Интерфейсы  -->
-  
-  <div>
-    <h2 align="center">
-      <img width=50px src=""/>
-      Interface 
-    </h2>
-  </div>
-  <div align="center">
-    <code><img width=50px src="https://etai-group.com/images/Using-Technologies/WPF.jpg"/></code>
-    <code><img width=50px src=""/></code>
-  </div>
+
+<h2 align="center">
+  <p><img width=40px src="https://user-images.githubusercontent.com/86602542/169526105-70cd46cf-98b7-4547-be82-049d1794357f.gif"/>Interfaces</p>
+</h2>
+<div align="center">
+  <code><img width=50px title="WPF" src="https://user-images.githubusercontent.com/86602542/169524774-847a9d66-e57b-48b1-bc04-04263798d7ad.png"/></code>
+</div>
   
 <!-- Базы данных  -->
+
+<h2 align="center">
+  <p><img width=50px src="https://user-images.githubusercontent.com/86602542/169525223-025b7279-056a-481b-a6ba-6c70ca1c0a74.gif"/>Databases</p>
+</h2>
+<div align="center">
+  <code><img width=75px title="MSSQL" src="https://user-images.githubusercontent.com/86602542/169476599-0fbba1f1-a150-47cc-bf24-aa92e4171f7b.png"/></code>
+  <code><img width=75px title="MySQL (phpMyAdmin)" src="https://user-images.githubusercontent.com/86602542/169476906-97d31631-a967-43ab-95e5-c1a405a39bd3.png"/></code>
+</div>
   
-  <div>
-    <h2 align="center">
-      <img width=50px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/database_header.gif"/>
-      DataBase
-    </h2>
-  </div>
-  <div align="center">
-    <code><img width=75px title="MSSQL" src="https://user-images.githubusercontent.com/86602542/169476599-0fbba1f1-a150-47cc-bf24-aa92e4171f7b.png"/</code>
-    <code><img width=75px title="MySQL (phpMyAdmin)" src="https://user-images.githubusercontent.com/86602542/169476906-97d31631-a967-43ab-95e5-c1a405a39bd3.png"/></code>
-  </div>
+<!--  Прочее  -->
+ 
+<h2 align="center">
+  <p><img width=30px src="https://user-images.githubusercontent.com/86602542/169530095-ed0f5691-96e5-49fb-9122-e62670643361.gif"/>Another</p>  
+</h2>
+<div align="center">
   
-  
+</div>
+
   
    <div>
     <h2 align="center">
@@ -81,17 +79,6 @@
 |||||Selenium
 |||||XAMPP
      
-  </div>
-  <div align="center">
-    <h2 align="center">
-      <img width="35px" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/exp_main.gif">
-      Experience
-    </h2>
-  
-  |TBD...|
-  |---|
-  ||
-  
   </div>
   <div>
     <h2 align="center">
