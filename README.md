@@ -1,5 +1,6 @@
 <!--  Приветствие  -->
   
+  
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=16EB00&center=true&vCenter=true&width=25&height=25&lines=%3E"/>
@@ -7,20 +8,23 @@
   </h1>
 </div>
   
+  
 <!-- Направление разработчика  -->
+  
   
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=16EB00&center=true&vCenter=true&width=25&height=25&lines=%3E"/>
-    Primarily BackEnd & Desktop developer
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=16EB00&center=true&vCenter=true&width=25&height=25&lines=%3E"/>Primarily BackEnd & Desktop developer
   </h3>
   <p>...and secondly FrontEnd</p>
 </div>
   
+  
 <!-- Языки  -->
   
+  
 <h2 align="center">
-  <p><img width=55px src="https://user-images.githubusercontent.com/86602542/169523990-981beff5-097f-4ba2-af24-fc64a74bfa5e.gif"/>Languages</p>
+  <img width=55px src="https://user-images.githubusercontent.com/86602542/169523990-981beff5-097f-4ba2-af24-fc64a74bfa5e.gif"/>Languages
 </h2>
 <div align="center">  
   
@@ -30,10 +34,12 @@
   
 </div>
   
+  
 <!--  Интерфейсы  -->
 
+
 <h2 align="center">
-  <p><img width=40px src="https://user-images.githubusercontent.com/86602542/169526105-70cd46cf-98b7-4547-be82-049d1794357f.gif"/>Interfaces</p>
+  <img width=40px src="https://user-images.githubusercontent.com/86602542/169526105-70cd46cf-98b7-4547-be82-049d1794357f.gif"/>Interfaces
 </h2>
 <div align="center">
 
@@ -43,10 +49,12 @@
   
 </div>
   
+  
 <!-- Базы данных  -->
 
+
 <h2 align="center">
-  <p><img width=30px src="https://user-images.githubusercontent.com/86602542/169535904-f7b4c627-b7a1-4689-9727-138587107fd5.gif"/>Databases</p>
+  <img width=30px src="https://user-images.githubusercontent.com/86602542/169535904-f7b4c627-b7a1-4689-9727-138587107fd5.gif"/>Databases
 </h2>
 <div align="center">
   
@@ -55,27 +63,29 @@
   | MSSQL | MySQL
 
 </div>
+
   
 <!--  Прочее  -->
- 
+
+
 <h2 align="center">
-  <p><img width=30px src="https://user-images.githubusercontent.com/86602542/169530095-ed0f5691-96e5-49fb-9122-e62670643361.gif"/>Another</p>  
+  <img width=30px src="https://user-images.githubusercontent.com/86602542/169530095-ed0f5691-96e5-49fb-9122-e62670643361.gif"/>Another
 </h2>
 <div align="center">
-  <code><img width=70px title="LINQ" src="https://user-images.githubusercontent.com/86602542/169531491-a2d97ac7-cce8-43e1-93d5-2cd5ce05da63.png"/></code>
-  <code><img width=50px title="JSON" src=""/></code>
-  <code><img width=50px title="Bootstrap" src=""/></code>
-  <code><img width=50px title="Beautiful Soup" src=""/></code>
-  <code><img width=50px title="Selenium" src=""/></code>
-  <code><img width=50px title="XAMPP" src=""/></code>
-  <code><img width=50px title="Material Design (WPF)" src=""/></code>
+  
+  | <code><img width=70px title="LINQ" src="https://user-images.githubusercontent.com/86602542/169531491-a2d97ac7-cce8-43e1-93d5-2cd5ce05da63.png"/></code> | <code><img width=50px title="JSON" src="https://user-images.githubusercontent.com/86602542/169538778-1e89ba99-f6d8-451c-8c5d-9e14030da921.png"/></code> | <code><img width=50px title="Bootstrap" src="https://user-images.githubusercontent.com/86602542/169539065-c5f1b19c-6ac4-4585-b923-b19fc79690d3.png"/></code> | <code><img width=90px title="Beautiful Soup" src="https://user-images.githubusercontent.com/86602542/169539420-5cbd4ce9-db41-465a-bc5f-7c2e8a016103.png"/></code> | <code><img width=50px title="Selenium" src="https://user-images.githubusercontent.com/86602542/169539611-e1e37980-0ec4-43bb-8228-25300801d39a.png"/></code> | <code><img width=50px title="XAMPP" src="https://user-images.githubusercontent.com/86602542/169539739-bc76bbde-d570-44b5-8b1a-ef8c2910ef93.png"/></code> |
+  | :-: | :-: | :-: | :-: | :-: | :-: |
+  | LINQ | JSON | Bootstrap | Beautiful Soup | Selenium | XAMPP
+  
 </div>
+
 
 <!-- GitHub статистика -->
 
+
 <div>
   <h2 align="center">
-    <p><img width="35px" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/title_git-stats.gif">GitHub stats</p>
+    <img width="35px" src="https://user-images.githubusercontent.com/86602542/169537286-37882072-0bf6-4153-819d-0da3b5cce4a7.gif">GitHub stats
   </h2>
   <table>
     <tr align="center">
@@ -85,13 +95,8 @@
     </tr>
     <tr align="center">
       <td>
-        <p> 
-          <img width=500px height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovdmitrij&theme=midnight-purple&hide_border=true&layout=compact&langs_count=15&count-private=true&hide_title=true"/>
-        </p> 
-        <p>
-        * private repositories not included
-        </p>   
-     </td>
+        <img width=500px height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tovdmitrij&theme=midnight-purple&hide_border=true&layout=compact&langs_count=15&count-private=true&hide_title=true"/>
+      </td>
       <td>
         <img width=500px height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=tovdmitrij&count-private=true&theme=midnight-purple&hide_border=true"/>
       </td>
