@@ -1,9 +1,14 @@
+<!--  Приветствие  -->
+  
   <div>
     <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=16EB00&center=true&vCenter=true&width=25&height=25&lines=%3E"/>
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&width=300&color=000000&background=FFFFFF&center=true&vCenter=true&height=25&lines=Hi+there%2C+I'm+Dmitry"/>
-  </h1>
+      <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=16EB00&center=true&vCenter=true&width=25&height=25&lines=%3E"/>
+      <img src="https://readme-typing-svg.herokuapp.com?size=25&width=300&color=000000&background=FFFFFF&center=true&vCenter=true&height=25&lines=Hi+there%2C+I'm+Dmitry"/>
+    </h1>
   </div>
+  
+<!-- Направление разработчика  -->
+  
   <div>
     <h3 align="center">
       <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=16EB00&center=true&vCenter=true&width=25&height=25&lines=%3E"/>
@@ -11,28 +16,61 @@
     </h3>
     <p align="center">...and secondly FrontEnd</p>
   </div>
+  
+<!-- Языки  -->
+  
   <div>
     <h2 align="center">
       <img width=50px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/title_languages.gif"/>
       Languages
     </h2>
-    <div align="center">
-      <code><img width=50px title="C#" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_C%23.png"/></code>
-      <code><img width=50px title="SQL" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_SQL.jpg"/></code>
-      <code><img width=50px title="Python" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_Python.png"/></code>
-      <code><img width=50px title="PHP" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_PHP.png"/></code>
-      <code><img width=50px title="JavaScript" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_JS.png"/></code>
-      <code><img width=50px title="HTML5" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_HTML.png"/></code>
-      <code><img width=50px title="CSS3" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_CSS.png"/></code>
-    </div>
-   </div>
+  </div>
+  <div align="center">
+    <code><img width=50px title="C#" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_C%23.png"/></code>
+    <code><img width=50px title="SQL" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_SQL.jpg"/></code>
+    <code><img width=50px title="Python" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_Python.png"/></code>
+    <code><img width=50px title="PHP" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_PHP.png"/></code>
+    <code><img width=50px title="JavaScript" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_JS.png"/></code>
+    <code><img width=50px title="HTML5" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_HTML.png"/></code>
+    <code><img width=50px title="CSS3" src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/language_CSS.png"/></code>
+  </div>
+  
+<!--  Интерфейсы  -->
+  
+  <div>
+    <h2 align="center">
+      <img width=50px src=""/>
+      Interface 
+    </h2>
+  </div>
+  <div align="center">
+    <code><img width=50px src="https://etai-group.com/images/Using-Technologies/WPF.jpg"/></code>
+    <code><img width=50px src=""/></code>
+  </div>
+  
+<!-- Базы данных  -->
+  
+  <div>
+    <h2 align="center">
+      <img width=50px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/database_header.gif"/>
+      DataBase
+    </h2>
+  </div>
+  <div align="center">
+    <code><img width=75px title="MSSQL" src="https://user-images.githubusercontent.com/86602542/169476599-0fbba1f1-a150-47cc-bf24-aa92e4171f7b.png"/</code>
+    <code><img width=75px title="MySQL (phpMyAdmin)" src="https://user-images.githubusercontent.com/86602542/169476906-97d31631-a967-43ab-95e5-c1a405a39bd3.png"/></code>
+  </div>
+  
+  
+  
+   <div>
     <h2 align="center">
       <img width=30px src="https://github.com/TovDmitrij/TovDmitrij/blob/main/pic/tools_main.gif"/>
       Tools
     </h2>
-
+   </div>
    <div align="center">
-
+  
 | Database          | IDE                 | Interface | OS            | Another
 | :-----------------: | :-------------------: | :--------: | :-------------: | :-----:
 | MSSQL             | Visual Studio       | WPF       | Windows 10    | LINQ
