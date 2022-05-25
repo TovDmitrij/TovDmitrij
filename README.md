@@ -60,9 +60,25 @@
   
   | <code><img width=75px title="MSSQL" src="https://user-images.githubusercontent.com/86602542/169476599-0fbba1f1-a150-47cc-bf24-aa92e4171f7b.png"/></code> | <code><img width=75px title="MySQL (phpMyAdmin)" src="https://user-images.githubusercontent.com/86602542/169476906-97d31631-a967-43ab-95e5-c1a405a39bd3.png"/></code> |
   | :-: | :-: |
-  | MSSQL | MySQL
+  | MSSQL | MySQL |
 
 </div>
+
+
+<!--  Операционные системы  -->
+  
+  
+<h2 align="center">
+  <img width=30px src="https://user-images.githubusercontent.com/86602542/170211393-c0f2dd08-1da7-40cd-bb44-1a3216b4d7ee.gif"/>Operating Systems
+</h2>
+<div align="center">
+  
+  | <code><img width=50px src="https://user-images.githubusercontent.com/86602542/170212088-9b55c4ba-77da-4ca3-97dd-8067e1369d59.png"/></code>  |   <code><img width=50px src="https://user-images.githubusercontent.com/86602542/170211813-77cfbd5f-9829-428a-821a-3db0a2f3d57a.png"/></code> |
+  | :-: | :-: |
+  | Win10 | Ubuntu |
+  
+</div>
+
 
   
 <!--  Прочее  -->
