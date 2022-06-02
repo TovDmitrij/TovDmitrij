@@ -24,7 +24,7 @@
   
   
 <h2 align="center">
-  <img height=40px src="https://user-images.githubusercontent.com/86602542/169523990-981beff5-097f-4ba2-af24-fc64a74bfa5e.gif"/>Languages
+  <img height=30px src="https://user-images.githubusercontent.com/86602542/169523990-981beff5-097f-4ba2-af24-fc64a74bfa5e.gif"/>Languages
 </h2>
 <div align="center">  
   
