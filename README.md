@@ -24,7 +24,7 @@
   
   
 <h2 align="center">
-  <img width=55px src="https://user-images.githubusercontent.com/86602542/169523990-981beff5-097f-4ba2-af24-fc64a74bfa5e.gif"/>Languages
+  <img height=40px src="https://user-images.githubusercontent.com/86602542/169523990-981beff5-097f-4ba2-af24-fc64a74bfa5e.gif"/>Languages
 </h2>
 <div align="center">  
   
@@ -39,7 +39,7 @@
 
 
 <h2 align="center">
-  <img width=40px src="https://user-images.githubusercontent.com/86602542/169526105-70cd46cf-98b7-4547-be82-049d1794357f.gif"/>Interfaces
+  <img height=40px src="https://user-images.githubusercontent.com/86602542/169526105-70cd46cf-98b7-4547-be82-049d1794357f.gif"/>Interfaces
 </h2>
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 
 <h2 align="center">
-  <img width=30px src="https://user-images.githubusercontent.com/86602542/169535904-f7b4c627-b7a1-4689-9727-138587107fd5.gif"/>Databases
+  <img height=30px src="https://user-images.githubusercontent.com/86602542/169535904-f7b4c627-b7a1-4689-9727-138587107fd5.gif"/>Databases
 </h2>
 <div align="center">
   
@@ -69,7 +69,7 @@
   
   
 <h2 align="center">
-  <img width=30px src="https://user-images.githubusercontent.com/86602542/170211393-c0f2dd08-1da7-40cd-bb44-1a3216b4d7ee.gif"/>Operating Systems
+  <img height=30px src="https://user-images.githubusercontent.com/86602542/170211393-c0f2dd08-1da7-40cd-bb44-1a3216b4d7ee.gif"/>Operating Systems
 </h2>
 <div align="center">
   
@@ -85,7 +85,7 @@
 
 
 <h2 align="center">
-  <img width=30px src="https://user-images.githubusercontent.com/86602542/169530095-ed0f5691-96e5-49fb-9122-e62670643361.gif"/>Another
+  <img height=30px src="https://user-images.githubusercontent.com/86602542/169530095-ed0f5691-96e5-49fb-9122-e62670643361.gif"/>Another
 </h2>
 <div align="center">
   
@@ -101,7 +101,7 @@
 
 <div>
   <h2 align="center">
-    <img width="35px" src="https://user-images.githubusercontent.com/86602542/169537286-37882072-0bf6-4153-819d-0da3b5cce4a7.gif">GitHub stats
+    <img height="35px" src="https://user-images.githubusercontent.com/86602542/169537286-37882072-0bf6-4153-819d-0da3b5cce4a7.gif">GitHub stats
   </h2>
   <table>
     <tr align="center">
